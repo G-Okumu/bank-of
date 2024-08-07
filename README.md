@@ -128,6 +128,7 @@ As a user, I should be able to:
 
 #### DELETE /transactions/:id
 
+hs
 Example Response:
 
 ```json
